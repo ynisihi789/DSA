@@ -47,7 +47,8 @@ Install these extensions for better C development:
 ## Learning Path
 
 ### Phase 1: Fundamentals
-- ✅ `01_array_basics.c` - Arrays, search, insertion, deletion
+- ✅ `01_array_basics.c` - Arrays, search, insertion, deletion, reverse (C version)
+- ✅ `01_array_basics.cpp` - Vectors, algorithms, advanced operations (C++ version)
 
 ### Phase 2: Sorting Algorithms
 - `02_sorting.c` - Bubble sort, selection sort, insertion sort
