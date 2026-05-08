@@ -1,0 +1,13 @@
+*.exe
+*.o
+*.out
+.DS_Store
+*.dSYM/
+.vscode/
+debug/
+build/
+*.swp
+*.swo
+*~
+.env
+node_modules/
