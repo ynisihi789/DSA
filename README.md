@@ -51,7 +51,8 @@ Install these extensions for better C development:
 - ✅ `01_array_basics.cpp` - Vectors, algorithms, advanced operations (C++ version)
 
 ### Phase 2: Sorting Algorithms
-- `02_sorting.c` - Bubble sort, selection sort, insertion sort
+- ✅ `02_sorting.c` - Bubble, Selection, Insertion, Quick, Merge Sort (C version)
+- ✅ `02_sorting.cpp` - All sorting algorithms with performance analysis (C++ version)
 
 ### Phase 3: Advanced Data Structures
 - `03_linked_lists.c` - Singly linked lists
